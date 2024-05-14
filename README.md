@@ -16,6 +16,9 @@ Randomization: The computer's choice is generated using a random selection algor
 
 ## How it Works
 User Input: The player is prompted to enter their choice (Rock, Paper, or Scissors).
+
 Computer Choice: The computer randomly selects one of the three options.
+
 Comparison: The player's choice is compared with the computer's choice based on the game logic.
+
 Result Announcement: The result (win, lose, or tie) is displayed to the player.
